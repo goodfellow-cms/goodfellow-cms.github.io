@@ -1,0 +1,5 @@
+# Search engines read robots.txt only at a domain's root, so the documentation's sitemap,
+# at goodfellow-cms.github.io/goodfellow-cms/, is named here.
+User-agent: *
+Allow: /
+Sitemap: https://goodfellow-cms.github.io/goodfellow-cms/sitemap.xml
