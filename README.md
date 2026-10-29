@@ -4,4 +4,5 @@ The root of the `goodfellow-cms.github.io` domain, published with GitHub Pages f
 
 - `robots.txt` names the documentation's sitemap, since search engines read `robots.txt` only at a domain's root, never in a site's folder.
 - `index.html` sends visitors who open the domain itself to the documentation.
+- `404.html` sends visitors who open any other address on the domain to the same address in the documentation, such as `/docs/blocks` to `/goodfellow-cms/docs/blocks`, where the documentation's own "Page not found" shows if it has no such page. Addresses in the documentation's folder never reach it: GitHub Pages answers those with the documentation's own.
 - `.nojekyll` publishes the files as they are.
