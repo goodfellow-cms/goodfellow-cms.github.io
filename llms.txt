@@ -1,0 +1,15 @@
+# Goodfellow CMS
+
+> A website builder for people who aren't developers, with no server or database: pages are files in your own GitHub, GitLab or Bitbucket repository.
+
+Goodfellow CMS (Goodfellow for short) is open source under the MIT license. This domain holds its documentation, at https://goodfellow-cms.github.io/goodfellow-cms/, which lists every page for AI tools in its own llms.txt. Its source is at https://github.com/goodfellow-cms/goodfellow-cms, and its packages are on npm under @goodfellow-cms, with the `goodfellow` command and `npm create goodfellow`.
+
+## Documentation
+
+- [Every page of the documentation, by section](https://goodfellow-cms.github.io/goodfellow-cms/llms.txt): with a sentence about each
+- [Introduction](https://goodfellow-cms.github.io/goodfellow-cms/docs/introduction.md): what Goodfellow is, how a Goodfellow site works, and where to start
+- [Create a site](https://goodfellow-cms.github.io/goodfellow-cms/docs/create-a-site.md): a new site from a starter, in a browser or on a computer
+
+## Optional
+
+- [Every page in one file](https://goodfellow-cms.github.io/goodfellow-cms/llms-full.txt)
